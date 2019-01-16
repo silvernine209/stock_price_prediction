@@ -4,11 +4,8 @@ This project contains my two submissions for Kaggle competition : [Two Sigma: Us
 #### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is predict a signed confidence value that's correlated with stock price movement.
+The purpose of this project is predict a signed confidence value that's correlated with stock price movement.  
 Therefore, predicted signed confidence value can be used by the competition host to make better decisions on stock trading.
-
-https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only/notebook
-https://www.kaggle.com/silvernine/lb-0-53-market-news-xgboost-for-beginners
 
 ### Partner
 * [Two Sigma](https://www.twosigma.com/) is hosting this competition through [Kaggle](https://www.kaggle.com/c/two-sigma-financial-news#description).
@@ -31,49 +28,17 @@ https://www.kaggle.com/silvernine/lb-0-53-market-news-xgboost-for-beginners
 * etc. 
 
 ## Project Description
-(Provide more detailed overview of the project.  Talk a bit about your data sources and what questions and hypothesis you are exploring. What specific data analysis/visualization and modelling work are you using to solve the problem? What blockers and challenges are you facing?  Feel free to number or bullet point things here)
 
-## Needs of this project
+You can find base code in .ipynb format and its executed output by clickin "- executed" link.
+Data used in this executions are only accessible through Kaggle's kernel, which is a virtual environment within server for copyrights reasons. Therefore, it is not possible to replicate this work.  
+To learn more about the data, you can view it [here](https://www.kaggle.com/c/two-sigma-financial-news/data).  
 
-- frontend developers
-- data exploration/descriptive statistics
-- data processing/cleaning
-- statistical modeling
-- writeup/reporting
-- etc. (be as specific as possible)
-
-## Getting Started
-
-1. Clone this repo (for help see this [tutorial](https://help.github.com/articles/cloning-a-repository/)).
-2. Raw Data is being kept [here](Repo folder containing raw data) within this repo.
-
-    *If using offline data mention that and how they may obtain the data from the froup)*
-    
-3. Data processing/transformation scripts are being kept [here](Repo folder containing data processing scripts/notebooks)
-4. etc...
-
-*If your project is well underway and setup is fairly complicated (ie. requires installation of many packages) create another "setup.md" file and link to it here*  
-
-5. Follow setup [instructions](Link to file)
 
 ## Featured Notebooks/Analysis/Deliverables
-* [Notebook/Markdown/Slide Deck Title](link)
-* [Notebook/Markdown/Slide DeckTitle](link)
-* [Blog Post](link)
+* [NN Model.ipynb](https://github.com/silvernine209/stock_price_prediction/blob/master/NN%20Model.ipynb)  
+* [NN Model.ipynb - executed](https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only/notebook)  
+* [XGBoost.ipynb](https://github.com/silvernine209/stock_price_prediction/blob/master/NN%20Model.ipynb)  
+* [XGBoost.ipynb - executed](https://www.kaggle.com/silvernine/lb-0-53-market-news-xgboost-for-beginners)
 
 
-## Contributing DSWG Members
 
-**Team Leads (Contacts) : [Full Name](https://github.com/[github handle])(@slackHandle)**
-
-#### Other Members:
-
-|Name     |  Slack Handle   | 
-|---------|-----------------|
-|[Full Name](https://github.com/[github handle])| @johnDoe        |
-|[Full Name](https://github.com/[github handle]) |     @janeDoe    |
-
-## Contact
-* If you haven't joined the SF Brigade Slack, [you can do that here](http://c4sf.me/slack).  
-* Our slack channel is `#datasci-projectname`
-* Feel free to contact team leads with any questions or if you are interested in contributing!
