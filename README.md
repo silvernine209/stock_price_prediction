@@ -1,35 +1,33 @@
 # Project Name
-This project is a part of the [Data Science Working Group](http://datascience.codeforsanfrancisco.org) at [Code for San Francisco](http://www.codeforsanfrancisco.org).  Other DSWG projects can be found at the [main GitHub repo](https://github.com/sfbrigade/data-science-wg).
+This project contains my two submissions for Kaggle competition : [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news).
 
-#### -- Project Status: [Active, On-Hold, Completed]
+#### -- Project Status: [Completed]
 
 ## Project Intro/Objective
-The purpose of this project is ________. (Describe the main goals of the project and potential civic impact. Limit to a short paragraph, 3-6 Sentences)
+The purpose of this project is predict a signed confidence value that's correlated with stock price movement.
+Therefore, predicted signed confidence value can be used by the competition host to make better decisions on stock trading.
 
 https://www.kaggle.com/silvernine/very-simple-nn-model-market-data-only/notebook
 https://www.kaggle.com/silvernine/lb-0-53-market-news-xgboost-for-beginners
 
 ### Partner
-* [Name of Partner organization/Government department etc..]
-* Website for partner
-* Partner contact: [Name of Contact], [slack handle of contact if any]
-* If you do not have a partner leave this section out
+* [Two Sigma](https://www.twosigma.com/) is hosting this competition through [Kaggle](https://www.kaggle.com/c/two-sigma-financial-news#description).
+* In this competition, market data is provided by Intrinio and news data is provided by Thomson Reuters.
 
 ### Methods Used
-* Inferential Statistics
-* Machine Learning
+* Exploratory Data Analysis
+* Deep Learning
 * Data Visualization
 * Predictive Modeling
-* etc.
+
 
 ### Technologies
-* R 
 * Python
-* D3
-* PostGres, MySql
-* Pandas, jupyter
-* HTML
-* JavaScript
+* Jupyter Notebook
+* Pandas
+* Numpy
+* Matplotlib
+* Seaborn
 * etc. 
 
 ## Project Description
