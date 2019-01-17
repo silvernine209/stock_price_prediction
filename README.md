@@ -1,4 +1,4 @@
-# Project Name
+# Using News to Predict Stock Movements 
 This project contains my two submissions for Kaggle competition : [Two Sigma: Using News to Predict Stock Movements](https://www.kaggle.com/c/two-sigma-financial-news).
 
 * Refer to "Featured Notebooks/Analysis/Deliverables" section for fully executed Jupyter Notebooks
